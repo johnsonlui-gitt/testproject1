@@ -1,3 +1,5 @@
+
+
 test2 jojojojoo test2
 
 ver2
@@ -6,4 +8,8 @@ ver2
 also, f2 ...... jjjjj
 
 
+<<<<<<< HEAD
 ORIG stamp ****
+=======
+33 33
+>>>>>>> fcce39462c1a26cd13b9c02e57ed1002607814a9
