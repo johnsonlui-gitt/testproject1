@@ -1,0 +1,2 @@
+db = aaaaaaa
+pwd = ffffffff
