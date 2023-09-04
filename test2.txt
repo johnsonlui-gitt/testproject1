@@ -8,8 +8,12 @@ ver2
 also, f2 ...... jjjjj
 
 
-<<<<<<< HEAD
+
 ORIG stamp ****
 =======
+OR
+
+OR2
+
 33 33
->>>>>>> fcce39462c1a26cd13b9c02e57ed1002607814a9
+
